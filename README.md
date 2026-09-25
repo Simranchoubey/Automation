@@ -2,6 +2,7 @@
 
 A desktop application built with **Electron** that scrapes public tutor job listings from [TeacherOn.com](https://www.teacheron.com) and stores them locally in SQLite.
 
+
 ---
 
 ## Features
